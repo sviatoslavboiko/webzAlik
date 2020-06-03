@@ -119,10 +119,6 @@
           }
         }
       }
-    }
-  },
-  "defaultProject": "my-app",
-  "cli": {
-    "analytics": false
-  }
+    }},
+  "defaultProject": "my-app"
 }

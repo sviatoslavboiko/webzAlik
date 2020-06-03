@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { Inject } from '@angular/core';
+
 @Component({
   selector: 'app-app-product',
   templateUrl: './app-product.component.html',
