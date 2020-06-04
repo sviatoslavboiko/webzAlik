@@ -5,8 +5,10 @@ import { AppComponent } from './app.component';
 import { AppProductComponent } from './app-product/app-product.component';
 import { AppProductsComponent } from './app-products/app-products.component';
 import { AppTestComponent } from './app-test/app-test.component';
-import { AppProductListComponent } from './app-product-list/app-product-list.component';
-import { BaseServiceComponent } from './base-service/base-service.component';
+import { HttpClientModule } from '@angular/common/http';
+// import { LocationTypeModule } from './location-type/location-type.module';
+import { AppChildComponent } from './app-child/app-child.component';
+import { AppParentComponent } from './app-parent/app-parent.component';
 
 @NgModule({
   declarations: [
@@ -14,11 +16,13 @@ import { BaseServiceComponent } from './base-service/base-service.component';
     AppProductComponent,
     AppProductsComponent,
     AppTestComponent,
-    AppProductListComponent,
-    BaseServiceComponent
+    AppChildComponent,
+    AppParentComponent,
   ],
   imports: [
-    BrowserModule
+    BrowserModule,
+    HttpClientModule,
+    // LocationTypeModule,
   ],
   providers: [],
   bootstrap: [AppComponent]

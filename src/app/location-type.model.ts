@@ -1,7 +1,6 @@
-export class LocationType {
-    id: string;
-    name: string;
-    model: string;
-    price: number;
-  }
-  
+// export class LocationType {
+//     id: string;
+//     name: string;
+//     model: string;
+//     price: number;
+//   }
