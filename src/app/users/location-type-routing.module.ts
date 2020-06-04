@@ -1,10 +1,10 @@
 // import { NgModule } from '@angular/core';
 // import { Routes, RouterModule } from '@angular/router';
-// import { LocationTypeComponent } from './location-type.component';
+// import { LocationTypeComponent } from './users.component';
 
 // const routes: Routes = [
 //   {
-//     path: 'location-type',
+//     path: 'users',
 //     component: LocationTypeComponent
 //   }
 // ];

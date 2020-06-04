@@ -1,4 +1,4 @@
-// import { LocationType } from './location-type.model';
+// import { LocationType } from './users.model';
 
 // describe('LocationType', () => {
 //   it('should create an instance', () => {

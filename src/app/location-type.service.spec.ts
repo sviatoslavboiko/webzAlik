@@ -1,6 +1,6 @@
 // import { TestBed } from '@angular/core/testing';
 
-// import { LocationTypeService } from './location-type.service';
+// import { LocationTypeService } from './users.service';
 
 // describe('LocationTypeService', () => {
 //   beforeEach(() => TestBed.configureTestingModule({}));

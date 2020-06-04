@@ -6,7 +6,7 @@ import { AppProductComponent } from './app-product/app-product.component';
 import { AppProductsComponent } from './app-products/app-products.component';
 import { AppTestComponent } from './app-test/app-test.component';
 import { HttpClientModule } from '@angular/common/http';
-// import { LocationTypeModule } from './location-type/location-type.module';
+// import { LocationTypeModule } from './users/users.module';
 import { AppChildComponent } from './app-child/app-child.component';
 import { AppParentComponent } from './app-parent/app-parent.component';
 

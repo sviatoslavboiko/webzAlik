@@ -1,20 +1,20 @@
 // import { async, ComponentFixture, TestBed } from '@angular/core/testing';
 
-// import { LocationTypeComponent } from './location-type.component';
+// import { LocationTypeListComponent } from './users-list.component';
 
-// describe('LocationTypeComponent', () => {
-//   let component: LocationTypeComponent;
-//   let fixture: ComponentFixture<LocationTypeComponent>;
+// describe('LocationTypeListComponent', () => {
+//   let component: LocationTypeListComponent;
+//   let fixture: ComponentFixture<LocationTypeListComponent>;
 
 //   beforeEach(async(() => {
 //     TestBed.configureTestingModule({
-//       declarations: [ LocationTypeComponent ]
+//       declarations: [ LocationTypeListComponent ]
 //     })
 //     .compileComponents();
 //   }));
 
 //   beforeEach(() => {
-//     fixture = TestBed.createComponent(LocationTypeComponent);
+//     fixture = TestBed.createComponent(LocationTypeListComponent);
 //     component = fixture.componentInstance;
 //     fixture.detectChanges();
 //   });

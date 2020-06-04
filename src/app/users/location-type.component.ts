@@ -1,9 +1,9 @@
 // import { Component, OnInit } from '@angular/core';
 
 // @Component({
-//   selector: 'app-location-type',
-//   templateUrl: './location-type.component.html',
-//   styleUrls: ['./location-type.component.scss']
+//   selector: 'app-users',
+//   templateUrl: './users.component.html',
+//   styleUrls: ['./users.component.scss']
 // })
 // export class LocationTypeComponent implements OnInit {
 
